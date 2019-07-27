@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClass/AbstractClass.iml" filepath="$PROJECT_DIR$/AbstractClass/AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BurgerKraliDemo/BurgerKraliDemo.iml" filepath="$PROJECT_DIR$/BurgerKraliDemo/BurgerKraliDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CepTelefonuRehber/CepTelefonuRehber.iml" filepath="$PROJECT_DIR$/CepTelefonuRehber/CepTelefonuRehber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericClass/GenericClass.iml" filepath="$PROJECT_DIR$/GenericClass/GenericClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericDemo/GenericDemo.iml" filepath="$PROJECT_DIR$/GenericDemo/GenericDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIO/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO/JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jdbc/Jdbc.iml" filepath="$PROJECT_DIR$/Jdbc/Jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapInterface/MapInterface.iml" filepath="$PROJECT_DIR$/MapInterface/MapInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedInnerClass/NestedInnerClass.iml" filepath="$PROJECT_DIR$/NestedInnerClass/NestedInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticNestedClass/StaticNestedClass.iml" filepath="$PROJECT_DIR$/StaticNestedClass/StaticNestedClass.iml" />
+    </modules>
+  </component>
+</project>
